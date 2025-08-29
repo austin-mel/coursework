@@ -1,0 +1,3 @@
+[submodule "coursework"]
+	path = coursework
+	url = https://github.com/austin-mel-edu/coursework
